@@ -740,7 +740,7 @@
             "online": "https://arduino-esp8266.readthedocs.io/en/2.5.1/"
           }, 
           "url": "https://github.com/esp8266/Arduino/releases/download/2.5.1/esp8266-2.5.1.zip", 
-          "checksum": "SHA-256:a433b764ca75d90c3df632949ff91777afe06e4e07a691cd68e7cf8c51eafc8c", 
+          "checksum": "SHA-256:6fd5a711093998f7a0b8028f7a6b5be8406380e0aaabe77f6a80795df9c958c1", 
           "version": "2.5.1", 
           "architecture": "esp8266", 
           "archiveFileName": "esp8266-2.5.1.zip", 
