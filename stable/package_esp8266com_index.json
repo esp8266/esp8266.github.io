@@ -12,6 +12,133 @@
         {
           "category": "ESP8266",
           "name": "esp8266",
+          "url": "https://github.com/esp8266/Arduino/releases/download/2.6.2/esp8266-2.6.2.zip",
+          "version": "2.6.2",
+          "architecture": "esp8266",
+          "archiveFileName": "esp8266-2.6.2.zip",
+          "boards": [
+            {
+              "name": "Generic ESP8266 Module"
+            },
+            {
+              "name": "Generic ESP8285 Module"
+            },
+            {
+              "name": "ESPDuino (ESP-13 Module)"
+            },
+            {
+              "name": "Adafruit Feather HUZZAH ESP8266"
+            },
+            {
+              "name": "Invent One"
+            },
+            {
+              "name": "XinaBox CW01"
+            },
+            {
+              "name": "ESPresso Lite 1.0"
+            },
+            {
+              "name": "ESPresso Lite 2.0"
+            },
+            {
+              "name": "Phoenix 1.0"
+            },
+            {
+              "name": "Phoenix 2.0"
+            },
+            {
+              "name": "NodeMCU 0.9 (ESP-12 Module)"
+            },
+            {
+              "name": "NodeMCU 1.0 (ESP-12E Module)"
+            },
+            {
+              "name": "Olimex MOD-WIFI-ESP8266(-DEV)"
+            },
+            {
+              "name": "SparkFun ESP8266 Thing"
+            },
+            {
+              "name": "SparkFun ESP8266 Thing Dev"
+            },
+            {
+              "name": "SweetPea ESP-210"
+            },
+            {
+              "name": "LOLIN(WEMOS) D1 R2 & mini"
+            },
+            {
+              "name": "LOLIN(WEMOS) D1 mini Pro"
+            },
+            {
+              "name": "LOLIN(WEMOS) D1 mini Lite"
+            },
+            {
+              "name": "WeMos D1 R1"
+            },
+            {
+              "name": "ESPino (ESP-12 Module)"
+            },
+            {
+              "name": "ThaiEasyElec's ESPino"
+            },
+            {
+              "name": "WifInfo"
+            },
+            {
+              "name": "Arduino"
+            },
+            {
+              "name": "4D Systems gen4 IoD Range"
+            },
+            {
+              "name": "Digistump Oak"
+            },
+            {
+              "name": "WiFiduino"
+            },
+            {
+              "name": "Amperka WiFi Slot"
+            },
+            {
+              "name": "Seeed Wio Link"
+            },
+            {
+              "name": "ESPectro Core"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp8266",
+              "version": "2.5.0-4-b40a506",
+              "name": "xtensa-lx106-elf-gcc"
+            },
+            {
+              "packager": "esp8266",
+              "version": "2.5.0-4-b40a506",
+              "name": "mkspiffs"
+            },
+            {
+              "packager": "esp8266",
+              "version": "2.5.0-4-69bd9e6",
+              "name": "mklittlefs"
+            },
+            {
+              "packager": "esp8266",
+              "version": "3.7.2-post1",
+              "name": "python3"
+            }
+          ],
+          "help": {
+            "online": "https://arduino-esp8266.readthedocs.io/en/2.6.2/"
+          },
+          "size": "33451123",
+          "checksum": "SHA-256:579ce99867592593a52e93d76f1ad35453116fb4196f4b24fa47bc6d07557741"
+        },
+        {
+          "category": "ESP8266",
+          "name": "esp8266",
           "url": "https://github.com/esp8266/Arduino/releases/download/2.6.1/esp8266-2.6.1.zip",
           "version": "2.6.1",
           "architecture": "esp8266",
