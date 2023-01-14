@@ -12,6 +12,157 @@
         {
           "category": "ESP8266",
           "name": "esp8266",
+          "url": "https://github.com/esp8266/Arduino/releases/download/3.1.1/esp8266-3.1.1.zip",
+          "version": "3.1.1",
+          "architecture": "esp8266",
+          "archiveFileName": "esp8266-3.1.1.zip",
+          "boards": [
+            {
+              "name": "Generic ESP8266 Module"
+            },
+            {
+              "name": "Generic ESP8285 Module"
+            },
+            {
+              "name": "Lifely Agrumino Lemon v4"
+            },
+            {
+              "name": "ESPDuino (ESP-13 Module)"
+            },
+            {
+              "name": "Adafruit Feather HUZZAH ESP8266"
+            },
+            {
+              "name": "WiFi Kit 8"
+            },
+            {
+              "name": "Invent One"
+            },
+            {
+              "name": "XinaBox CW01"
+            },
+            {
+              "name": "ESPresso Lite 1.0"
+            },
+            {
+              "name": "ESPresso Lite 2.0"
+            },
+            {
+              "name": "Phoenix 1.0"
+            },
+            {
+              "name": "Phoenix 2.0"
+            },
+            {
+              "name": "NodeMCU 0.9 (ESP-12 Module)"
+            },
+            {
+              "name": "NodeMCU 1.0 (ESP-12E Module)"
+            },
+            {
+              "name": "Olimex MOD-WIFI-ESP8266(-DEV)"
+            },
+            {
+              "name": "SparkFun ESP8266 Thing"
+            },
+            {
+              "name": "SparkFun ESP8266 Thing Dev"
+            },
+            {
+              "name": "SparkFun Blynk Board"
+            },
+            {
+              "name": "SweetPea ESP-210"
+            },
+            {
+              "name": "LOLIN(WEMOS) D1 R2 & mini"
+            },
+            {
+              "name": "LOLIN(WEMOS) D1 ESP-WROOM-02"
+            },
+            {
+              "name": "LOLIN(WEMOS) D1 mini (clone)"
+            },
+            {
+              "name": "LOLIN(WEMOS) D1 mini Pro"
+            },
+            {
+              "name": "LOLIN(WEMOS) D1 mini Lite"
+            },
+            {
+              "name": "LOLIN(WeMos) D1 R1"
+            },
+            {
+              "name": "ESPino (ESP-12 Module)"
+            },
+            {
+              "name": "ThaiEasyElec's ESPino"
+            },
+            {
+              "name": "WifInfo"
+            },
+            {
+              "name": "Arduino"
+            },
+            {
+              "name": "4D Systems gen4 IoD Range"
+            },
+            {
+              "name": "Digistump Oak"
+            },
+            {
+              "name": "WiFiduino"
+            },
+            {
+              "name": "Amperka WiFi Slot"
+            },
+            {
+              "name": "Seeed Wio Link"
+            },
+            {
+              "name": "ESPectro Core"
+            },
+            {
+              "name": "Schirmilabs Eduino WiFi"
+            },
+            {
+              "name": "ITEAD Sonoff"
+            },
+            {
+              "name": "DOIT ESP-Mx DevKit (ESP8285)"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp8266",
+              "version": "3.1.0-gcc10.3-e5f9fec",
+              "name": "xtensa-lx106-elf-gcc"
+            },
+            {
+              "packager": "esp8266",
+              "version": "3.1.0-gcc10.3-e5f9fec",
+              "name": "mkspiffs"
+            },
+            {
+              "packager": "esp8266",
+              "version": "3.1.0-gcc10.3-e5f9fec",
+              "name": "mklittlefs"
+            },
+            {
+              "packager": "esp8266",
+              "version": "3.7.2-post1",
+              "name": "python3"
+            }
+          ],
+          "help": {
+            "online": "https://arduino-esp8266.readthedocs.io/en/3.1.1/"
+          },
+          "size": "39264710",
+          "checksum": "SHA-256:d080c4f754ad5f39a232164e4b534214d042d049b73da5908d0efaf3331db487"
+        },
+        {
+          "category": "ESP8266",
+          "name": "esp8266",
           "url": "https://github.com/esp8266/Arduino/releases/download/3.1.0/esp8266-3.1.0.zip",
           "version": "3.1.0",
           "architecture": "esp8266",
